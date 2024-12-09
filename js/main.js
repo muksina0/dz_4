@@ -11,7 +11,6 @@ const generateRandomColor = () => {
     }
     return '#' + color
 }
-
 const setRandomColors = () => {
     buttonsColor.forEach((buttonColor) => {
         buttonColor.innerHTML = generateRandomColor()
