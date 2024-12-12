@@ -49,7 +49,6 @@ hideTabContent()
 showTabContent()
 auto()
 
-
 tabsParent.onclick = (event) => {
     if(event.target.classList.contains('tab_content_item')) {
         tabs.forEach((item,index) => {

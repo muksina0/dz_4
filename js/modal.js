@@ -9,6 +9,7 @@ const openModal = () => {
     document.body.style.overflow = 'hidden'
 }
 
+
 const closeModal = () => {
     modal.style.display = 'none'
     document.body.style.overflow = ''
