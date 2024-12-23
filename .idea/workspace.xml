@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="">
+    <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="homework3">
+      <change afterPath="$PROJECT_DIR$/data/any.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/characters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/converter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home_works.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_works.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/home_works.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/home_works.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home_works.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lessons.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lessons.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/main.js/DZ1js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/main.js/lesson_6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,10 +120,48 @@
       <workItem from="1733584006798" duration="21000" />
       <workItem from="1733639329444" duration="1222000" />
       <workItem from="1733671562151" duration="362000" />
+      <workItem from="1734335348840" duration="1609000" />
+      <workItem from="1734347631865" duration="17000" />
+      <workItem from="1734347798841" duration="20000" />
+      <workItem from="1734348032838" duration="13000" />
+      <workItem from="1734348060363" duration="11000" />
+      <workItem from="1734348603758" duration="19000" />
+      <workItem from="1734348870866" duration="48000" />
+      <workItem from="1734365423241" duration="1253000" />
+      <workItem from="1734588584624" duration="190000" />
+      <workItem from="1734588798292" duration="13000" />
+      <workItem from="1734588881434" duration="126000" />
+      <workItem from="1734603523056" duration="295000" />
+      <workItem from="1734603832073" duration="11000" />
+      <workItem from="1734603874336" duration="2491000" />
+      <workItem from="1734653633233" duration="875000" />
+      <workItem from="1734697797472" duration="1368000" />
+      <workItem from="1734764114625" duration="134000" />
+      <workItem from="1734792960922" duration="25000" />
+      <workItem from="1734800977424" duration="1628000" />
+      <workItem from="1734802651013" duration="961000" />
+      <workItem from="1734803634023" duration="1043000" />
+      <workItem from="1734804722654" duration="273000" />
+      <workItem from="1734805049073" duration="1753000" />
+      <workItem from="1734869261630" duration="18000" />
+      <workItem from="1734869321749" duration="1637000" />
+      <workItem from="1734941336379" duration="379000" />
     </task>
+    <task id="LOCAL-00001" summary="homework3">
+      <created>1733992932073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733992932073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
   </component>
 </project>

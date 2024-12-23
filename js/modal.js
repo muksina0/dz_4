@@ -1,5 +1,5 @@
 
-// MODAL
+//ТРЕТЬЕ MODAL
 const  modal = document.querySelector('.modal')
 const modalTrigger = document.querySelector('#btn-get')
 const modalCloseButton = document.querySelector('.modal_close')
